@@ -54,31 +54,31 @@ This repository contains scripts and tools designed to analyze particle physics 
 The following are example plots generated using the tools in this repository:
 
 ### Jet Substructure for W and Z Jets
-![Jet Substructure for W and Z Jets](./sub_WZ.png)
+![Jet Substructure for W and Z Jets](./examplesLP/Histograms/sub_WZ.png)
 
 ### Jet Substructure for Top Jets
-![Jet Substructure for Top Jets](./sub_Top.png)
+![Jet Substructure for Top Jets](./examplesLP/Histograms/sub_Top.png)
 
 ### Jet Substructure for Higgs Jets
-![Jet Substructure for Higgs Jets](./subjet_Higgs.png)
+![Jet Substructure for Higgs Jets](./examplesLP/Histograms/subjet_Higgs.png)
 
 ### Constituent \( p_T \) for W and Z Jets
-![Constituent \( p_T \) for W and Z Jets](./Pt_constituents_WZ.png)
+![Constituent \( p_T \) for W and Z Jets](./examplesLP/Histograms/Pt_constituents_WZ.png)
 
 ### Constituent \( p_T \) for Top Jets
-![Constituent \( p_T \) for Top Jets](./Pt_constituents_Top.png)
+![Constituent \( p_T \) for Top Jets](./examplesLP/Histograms/Pt_constituents_Top.png)
 
 ### Constituent \( p_T \) for Higgs Jets
-![Constituent \( p_T \) for Higgs Jets](./Pt_Constituents_Higgs.png)
+![Constituent \( p_T \) for Higgs Jets](./examplesLP/Histograms/Pt_Constituents_Higgs.png)
 
 ### Jet Mass Distribution for W and Z Jets
-![Jet Mass for W and Z Jets](./mass_WZ.png)
+![Jet Mass for W and Z Jets](./examplesLP/Histograms/mass_WZ.png)
 
 ### Jet Mass Distribution for Top Jets
-![Jet Mass for Top Jets](./mass_Top.png)
+![Jet Mass for Top Jets](./examplesLP/Histograms/mass_Top.png)
 
 ### Jet Mass Distribution for Higgs Jets
-![Jet Mass for Higgs Jets](./mass_Higgs.png)
+![Jet Mass for Higgs Jets](./examplesLP/Histograms/mass_Higgs.png)
 
 ---
 
